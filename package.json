@@ -1,0 +1,19 @@
+{
+  "name": "chaideploy",
+  "version": "1.0.0",
+  "description": "Basic code to deploy",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "author": "Vishakha",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1"
+  }
+}
